@@ -13,7 +13,9 @@ Before running the project, ensure that you have the following libraries install
 
 **1. TensorFlow: For building and training deep learning models.**
 
+
 **2. NumPy: For numerical operations.**
+
 
 **3. Matplotlib: For data visualization.**
 
