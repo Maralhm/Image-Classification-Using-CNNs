@@ -12,7 +12,9 @@ The primary goal of this project is to create a model capable of correctly class
 Before running the project, ensure that you have the following libraries installed:
 
 **1. TensorFlow: For building and training deep learning models.**
+
 **2. NumPy: For numerical operations.**
+
 **3. Matplotlib: For data visualization.**
 
 ## Dataset
